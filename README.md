@@ -1,4 +1,4 @@
-# Interview Insight Tracker – Backend Interview Preparation Analytics System
+# Interview Insight Tracker – Backend
 
 A backend application that helps candidates **track interview questions, record attempts, and analyze performance** to identify strengths and weak areas across different topics.
 
